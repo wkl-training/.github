@@ -1,1 +1,14 @@
-# .github
+# White Knight Labs Training
+
+Welcome to White Knight Labs' Training materials repository. Here you will find repositories that correspond to hands-on labs associated with our training courses. With sessions led by live instructors via Zoom, these hands-on courses assure you an immersive deep dive into the realm of cybersecurity.
+
+## Current Courses
+
+| Course                                   | Description                                                                                                                                                                                                                                                              | Learn More                                                                                                             |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Attacking & Securing CI/CD Pipelines** | Equip participants with the knowledge and skills to identify vulnerabilities and implement security measures within CI/CD pipelines. This course combines theoretical knowledge with practical, hands-on labs that simulate real-world scenarios in a CI/CD environment. | [Learn More](https://training.whiteknightlabs.com/ascpc-certification/)                                                |
+| **Offensive Development Training**       | Hands-on deep dive into Windows Internals, manipulation Windows API functions, and developing malware in an isolated cyber range, providing you with the necessary tools to outsmart contemporary cyber defenses.                                                        | [Learn More](https://training.whiteknightlabs.com/live-training/offensive-development-practitioner-certification/)     |
+| **Advanced Red Team Operations**         | Equip you with cutting-edge techniques and skillful strategies to master complex cyber attack simulations. We guide you through effective adversarial emulation and help you navigate the cybersecurity landscape.                                                       | [Learn More](https://training.whiteknightlabs.com/live-training/advanced-red-team-operations-certification/)           |
+| **Offensive Azure Operations & Tactics** | Program designed to give participants a deep understanding of Azure’s infrastructure and security features through practical, hands-on experience. During the two days of virtual instruction, you’ll learn how to identify and exploit Azure components.                | [Learn More](https://training.whiteknightlabs.com/live-training/offensive-azure-operations-and-tactics-certification/) |
+
+For more information on our training courses, please contact us through our website: https://training.whiteknightlabs.com/contact-us
