@@ -11,6 +11,6 @@ Welcome to White Knight Labs' Training materials repository. Here you will find 
 | **Advanced Red Team Operations**         | Equip you with cutting-edge techniques and skillful strategies to master complex cyber attack simulations. We guide you through effective adversarial emulation and help you navigate the cybersecurity landscape.                                                       | <a href="https://training.whiteknightlabs.com/live-training/advanced-red-team-operations-certification/" target="_blank">Learn More</a>           |
 | **Offensive Azure Operations & Tactics** | Program designed to give participants a deep understanding of Azure’s infrastructure and security features through practical, hands-on experience. During the two days of virtual instruction, you’ll learn how to identify and exploit Azure components.                | <a href="https://training.whiteknightlabs.com/live-training/offensive-azure-operations-and-tactics-certification/" target="_blank">Learn More</a> |
 
-For more information on our training courses, please contact us:
+For more information on our training courses, please contact us through our website.
 
 https://training.whiteknightlabs.com/contact-us
